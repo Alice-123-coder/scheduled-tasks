@@ -22,7 +22,7 @@ import random
 from pathlib import Path
 import smtplib
 
-my_email = os.environ.get"susy101117@gmail.com"
+MY_EMAIL = os.environ.get"susy101117@gmail.com"
 password = os.environ.get"mmiy hhim ecba oino"
 
 
