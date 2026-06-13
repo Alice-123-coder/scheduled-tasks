@@ -22,8 +22,8 @@ import random
 from pathlib import Path
 import smtplib
 
-MY_EMAIL = os.environ.get"susy101117@gmail.com"
-MY_PASSWORD = os.environ.get"mmiy hhim ecba oino"
+MY_EMAIL = os.environ.get("susy101117@gmail.com")
+MY_PASSWORD = os.environ.get("mmiy hhim ecba oino")
 
 
 data = pandas.read_csv("./birthdays.csv")
