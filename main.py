@@ -23,7 +23,7 @@ from pathlib import Path
 import smtplib
 
 MY_EMAIL = os.environ.get"susy101117@gmail.com"
-password = os.environ.get"mmiy hhim ecba oino"
+MY_PASSWORD = os.environ.get"mmiy hhim ecba oino"
 
 
 data = pandas.read_csv("./birthdays.csv")
